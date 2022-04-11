@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.0.1...1.1.0) (2022-04-11)
+
+
+### Features
+
+* **semver:** create also release ([344022e](https://github.com/yanehi/terraform-appservice-azure/commit/344022eb94f7b7514d1745cffe0d6f8805a99738))
+
 ## [1.0.1](https://github.com/yanehi/terraform-appservice-azure/compare/1.0.0...1.0.1) (2022-04-11)
 
 
