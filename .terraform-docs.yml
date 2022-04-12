@@ -7,7 +7,7 @@ footer-from: ""
 
 recursive:
   enabled: false
-  path: modules
+  path: ./
 
 sections:
   hide: []
@@ -16,7 +16,7 @@ sections:
 content: ""
 
 output:
-  file: ""
+  file: "tfdocs.md"
   mode: inject
   template: |-
     <!-- BEGIN_TF_DOCS -->
@@ -24,7 +24,7 @@ output:
     <!-- END_TF_DOCS -->
 
 output-values:
-  enabled: false
+  enabled: true
   from: ""
 
 sort:
@@ -35,7 +35,7 @@ settings:
   anchor: true
   color: true
   default: true
-  description: false
+  description: true
   escape: true
   hide-empty: false
   html: true
