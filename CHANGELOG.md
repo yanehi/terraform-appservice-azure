@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/yanehi/terraform-appservice-azure/compare/1.1.4...1.1.5) (2022-04-12)
+
+
+### Bug Fixes
+
+* **readme:** badges ([318f527](https://github.com/yanehi/terraform-appservice-azure/commit/318f5279ba32abc53c9c171d65c143ada92c4ccc))
+
 ## [1.1.4](https://github.com/yanehi/terraform-appservice-azure/compare/1.1.3...1.1.4) (2022-04-12)
 
 
