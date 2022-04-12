@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/yanehi/terraform-appservice-azure/compare/1.1.5...1.1.6) (2022-04-12)
+
+
+### Bug Fixes
+
+* **readme:** get latest release ([76030de](https://github.com/yanehi/terraform-appservice-azure/commit/76030defb7fd0497e8dec285809cb4dfa873cba5))
+
 ## [1.1.5](https://github.com/yanehi/terraform-appservice-azure/compare/1.1.4...1.1.5) (2022-04-12)
 
 
