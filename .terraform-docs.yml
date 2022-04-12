@@ -7,7 +7,7 @@ footer-from: ""
 
 recursive:
   enabled: false
-  path: ./
+  path: modules
 
 sections:
   hide: []
@@ -24,7 +24,7 @@ output:
     <!-- END_TF_DOCS -->
 
 output-values:
-  enabled: true
+  enabled: false
   from: ""
 
 sort:
@@ -35,7 +35,7 @@ settings:
   anchor: true
   color: true
   default: true
-  description: true
+  description: false
   escape: true
   hide-empty: false
   html: true

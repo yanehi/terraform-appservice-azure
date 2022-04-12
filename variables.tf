@@ -14,6 +14,6 @@ variable "tags" {
   description = "Tags assigned to the resource group"
   type = map(string)
   default = {
-    Environment : ""
+    Environment : "LOCAL"
   }
 }
