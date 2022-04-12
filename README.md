@@ -31,5 +31,5 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_resource_group_id"></a> [resource\_group\_id](#output\_resource\_group\_id) | n/a |
+| <a name="output_resource_group_id"></a> [resource\_group\_id](#output\_resource\_group\_id) | ID of the resource group |
 <!-- END_TF_DOCS -->
