@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.1.6...1.2.0) (2022-04-12)
+
+
+### Features
+
+* **test:** only folder ([1269fa3](https://github.com/yanehi/terraform-appservice-azure/commit/1269fa39ef556a2cd6e1ab8c42dfd3229b1e2fe2))
+
 ## [1.1.6](https://github.com/yanehi/terraform-appservice-azure/compare/1.1.5...1.1.6) (2022-04-12)
 
 
