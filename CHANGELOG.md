@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/yanehi/terraform-appservice-azure/compare/1.1.0...1.1.1) (2022-04-12)
+
+
+### Bug Fixes
+
+* **pre-commit:** add tfdocs config ([17b26b1](https://github.com/yanehi/terraform-appservice-azure/commit/17b26b110fe9f70dc6512d2b1a9f37beda1bd89c))
+* **tfdocs:** add docu ([5b91586](https://github.com/yanehi/terraform-appservice-azure/commit/5b91586a4101f461a3072662463649b331832b15))
+
 # [1.1.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.0.1...1.1.0) (2022-04-11)
 
 
