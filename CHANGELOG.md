@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.3.1...1.4.0) (2022-04-13)
+
+
+### Features
+
+* github actions for terraform ([d094bd4](https://github.com/yanehi/terraform-appservice-azure/commit/d094bd4aa0df3557b11217b873cfc0f4c077d4f1))
+
 ## [1.3.1](https://github.com/yanehi/terraform-appservice-azure/compare/1.3.0...1.3.1) (2022-04-13)
 
 
