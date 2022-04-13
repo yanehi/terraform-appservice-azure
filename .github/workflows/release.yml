@@ -4,8 +4,7 @@ on:
     branches:
       - main
       - next
-      - beta
-      - "*.x"
+      - beta‚
 jobs:
   release:
     name: release
