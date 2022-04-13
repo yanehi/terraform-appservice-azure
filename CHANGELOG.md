@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.2.0...1.3.0) (2022-04-13)
+
+
+### Features
+
+* **ci:** trigger release ([ceba727](https://github.com/yanehi/terraform-appservice-azure/commit/ceba727fa6734cd9e7ba287ed4a05133f341c1e0))
+
 # [1.2.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.1.6...1.2.0) (2022-04-12)
 
 
