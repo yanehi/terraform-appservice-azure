@@ -1,3 +1,15 @@
+# [1.5.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.4.0...1.5.0) (2022-04-13)
+
+
+### Bug Fixes
+
+* **ci:** error in YAML ([bd53a0b](https://github.com/yanehi/terraform-appservice-azure/commit/bd53a0bfc164e26a6869e6977e09a76549901f09))
+
+
+### Features
+
+* **ci:** release triggern ([212f506](https://github.com/yanehi/terraform-appservice-azure/commit/212f5061ae90bc811e67ae5490e4615d2c3bff0b))
+
 # [1.4.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.3.1...1.4.0) (2022-04-13)
 
 
