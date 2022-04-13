@@ -1,4 +1,4 @@
-name: Release
+name: Validate Terraform module
 on: [pull_request]
 jobs:
   tfsec:
