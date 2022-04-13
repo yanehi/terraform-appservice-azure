@@ -4,7 +4,7 @@ on:
     branches:
       - main
       - next
-      - beta‚
+      - beta
 jobs:
   release:
     name: release
