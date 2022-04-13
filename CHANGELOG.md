@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/yanehi/terraform-appservice-azure/compare/1.3.0...1.3.1) (2022-04-13)
+
+
+### Bug Fixes
+
+* **ci:** komma entfernt ([4fd5b1a](https://github.com/yanehi/terraform-appservice-azure/commit/4fd5b1af8e41f8b44571fcd775932b06684ed7a3))
+
 # [1.3.0](https://github.com/yanehi/terraform-appservice-azure/compare/1.2.0...1.3.0) (2022-04-13)
 
 
